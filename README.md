@@ -10,7 +10,7 @@
 
 
 **Figma**
-[Ссылка на макет в Figma]([https://www.figma.com/file/5H3gsn5lIGPwzBPby9jAOo/Sprint-14-RU?node-id=0%3A1])
+[Ссылка на макет в Figma](https://www.figma.com/file/5H3gsn5lIGPwzBPby9jAOo/Sprint-14-RU?node-id=0%3A1)
 
 ## Новые функции
 * Авторизация
